@@ -1,0 +1,36 @@
+.row1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row3 {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.col {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.col-2 {
+    flex: 2;
+    margin: 10px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.col-3 {
+    flex: 3;
+    margin: 10px;
+    padding: 20px;
+    background-color: aquamarine;
+}
